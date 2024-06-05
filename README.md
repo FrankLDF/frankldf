@@ -16,9 +16,12 @@
 <br>
 
 <p>
- "I am a passionate web developer with a primary focus on frontend. Throughout my career, I have had the opportunity to gain strong skills in developing attractive and functional user interfaces. Additionally, I have explored the world of backend development and databases, which has enriched my experience and perspective in web development.
+	university student in the last semesters of Computer Systems Engineering 👨‍🎓, Jr. web developer 👨‍💻 focused on the Frontend and with some approaches to the Backend.
+	
+Looking for my first job in the IT field as a Frontend Jr developer 🔍.
 
-Currently, I am immersed in my training as a computer systems engineering student, where I continue to expand my knowledge and technical skills. "My commitment to continuous learning and constant improvement drives me to seek new opportunities to grow professionally in this exciting technological field."</p>
+I have 3 years of experience learning web development through university, technical courses at institutions such as Cisco, Infotev, Code Academy, among others. 	During this time, I have developed personal projects, university projects and course finals.
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
