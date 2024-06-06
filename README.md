@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<img src="./src/images/frank_ldf-github.jpg">
 </p>
-<img src="https://drive.google.com/file/d/1X6iNEszejK13C_wyTi3k-N_wBtJBvkqq/view?usp=drive_link">
+<!-- <img src="https://drive.google.com/file/d/1X6iNEszejK13C_wyTi3k-N_wBtJBvkqq/view?usp=drive_link"> -->
 
 
 
