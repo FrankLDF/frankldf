@@ -20,11 +20,11 @@
 <br>
 
 <p>
-	university student in the last semesters of Computer Systems Engineering 👨‍🎓, Jr. web developer 👨‍💻 focused on the Frontend and with some approaches to the Backend.
+	university student in the last semesters of Computer Systems Engineering 👨‍🎓, Jr. web developer 👨‍💻 with a solid foundation in both Frontend and Backend.
 	
-Looking for my first job in the IT field as a Frontend Jr developer 🔍.
+Looking for my first job in the IT sector as a Full Stack Jr developer 🔍.
 
-I have 3 years of experience learning web development through university, technical courses at institutions such as Cisco, Infotev, Code Academy, among others. 	During this time, I have developed personal projects, university projects and course finals.
+I have 3 years of experience dedicated to constant learning and web development through university and various courses on recognized platforms. During this time, I have maintained a continuous commitment to my training, carrying out multiple personal and academic projects that have allowed me to apply and reinforce my knowledge. I have worked with a variety of languages ​​and technologies, including ReactJS, JavaScript, HTML, CSS, Pug and Bootstrap on the Frontend, as well as ExpressJS and MySQL on the Backend, allowing me to create complete and functional web applications.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
