@@ -7,7 +7,9 @@
 </p>
 <!-- <img src="https://drive.google.com/file/d/1X6iNEszejK13C_wyTi3k-N_wBtJBvkqq/view?usp=drive_link"> -->
 
-
+<div style="width:50%;height:0;padding-bottom:56%;position:relative;">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="60px" witdh="100px" height="80px">
+ </div>
 
 <br>
 
@@ -18,6 +20,8 @@
 
 
 <br>
+
+
 
 <p>
 	university student in the last semesters of Computer Systems Engineering 👨‍🎓, Jr. web developer 👨‍💻 with a solid foundation in both Frontend and Backend.
