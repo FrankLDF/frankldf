@@ -21,15 +21,22 @@
 
 <br>
 
+<ul>
+	<li>Junior full stack web developer with experience in productive environments. 👨‍💻 ✔ </li>
+	<li>Skilled in modern technologies like TypeScript, React, Node.js, and Express. ✔</li>
+	<li>Experienced with databases like Oracle and MySQL to build complete solutions. ✔</li>
+	<li>Committed to continuous learning and optimizing my skills. ✔</li>
+	<li>Focused on adding value to the team and improving efficiency in every project. ✔</li>
+</ul>
 
-
-<p>
+<!-- <p>
 	university student in the last semesters of Computer Systems Engineering 👨‍🎓, Jr. web developer 👨‍💻 with a solid foundation in both Frontend and Backend.
 	
 Looking for my first job in the IT sector as Jr developer 🔍.
 
 I have 3 years of experience dedicated to constant learning and web development through university and various courses on recognized platforms. During this time, I have maintained a continuous commitment to my training, carrying out multiple personal and academic projects that have allowed me to apply and reinforce my knowledge. 
 </p>
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
